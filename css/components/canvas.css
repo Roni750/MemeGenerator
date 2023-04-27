@@ -1,0 +1,8 @@
+#my-canvas {
+    border: 2px solid black;
+}
+
+.canvas-title {
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+}
